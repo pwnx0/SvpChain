@@ -1,0 +1,16 @@
+# Node dependencies
+node_modules/
+package-lock.json
+
+# User Credentials & Private Keys (Never share or commit!)
+pv.txt
+proxy.txt
+groq.txt
+accounts.json
+.env
+
+# Runtime Cache and State
+txhashes.json
+faucet_cooldowns.json
+*.tmp
+*.log
