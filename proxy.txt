@@ -1,0 +1,6 @@
+# Paste your proxies here, one per line.
+# Supports HTTP, HTTPS, and SOCKS5.
+# Format:
+# http://username:password@ip:port
+# http://ip:port
+# socks5://username:password@ip:port

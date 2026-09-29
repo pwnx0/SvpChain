@@ -1,0 +1,5 @@
+# Paste your EVM private keys here, one per line.
+# Format: 64 hex characters (with or without 0x prefix).
+# Example:
+# 0x1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef
+# 0xabcdefabcdefabcdefabcdefabcdefabcdefabcdefabcdefabcdefabcdefabcd

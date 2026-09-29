@@ -1,0 +1,2 @@
+# Paste your free Groq API key here (get it from https://console.groq.com)
+# Format: gsk_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
